@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageId>ajay.applogger</PackageId>
+    <PackageId>ajay.applogger1</PackageId>
     <Version>1.2.0</Version>
     <Author>ajay</Author>
     <Product>AppLogger</Product>
